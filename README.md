@@ -1,6 +1,6 @@
 # LinkedIn Automation Assignment
 
-**Author:** Ishu Goel
+**Developer:** Ishu Goel
 **Technology Stack:** Go (Golang), Rod Browser Automation, Chrome DevTools Protocol  
 **Purpose:** Educational Technical Demonstration
 
