@@ -1,0 +1,19 @@
+browser:
+  headless: false
+  bin: ""
+  user_agents:
+    - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
+  min_viewport: 1280
+  max_viewport: 1600
+
+timing:
+  min_delay_ms: 750
+  max_delay_ms: 2250
+
+limits:
+  daily_connections: 50
+
+logging:
+  level: "info"
+
